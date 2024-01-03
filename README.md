@@ -10,6 +10,7 @@ myTeckStack: [JavaScript, Html, Css, Java, Python, C#, Git]
 ```
 
 <h3 align="center">A passionate frontend and backend junior developer from Guatemala</h3>
+- 🌱 I’m currently learning **How to program as an online student at BYU Idaho University, I have only one year of programming experience..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
