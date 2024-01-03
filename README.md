@@ -1,4 +1,12 @@
-### Hi there 👋
+ ### Hi there 👋
+
+ ```js
+const saintdvntm = {
+pronouns: "he" | "him",
+code: [JavaScript, Html, Css, Java, Python, C#]
+} 
+` ``
+
 
 <!--
 **sAiNtDVNTM/sAiNtDVNTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
