@@ -14,7 +14,7 @@ myTeckStack: [JavaScript, Html, Css, Java, Python, C#, Git]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joseph (alex) oliva de leon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph (alex) oliva de leon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joseph-oliva-de-leon-000b95220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph (alex) oliva de leon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
